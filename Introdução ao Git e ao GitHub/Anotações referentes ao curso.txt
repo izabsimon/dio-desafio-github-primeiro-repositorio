@@ -1,0 +1,14 @@
+*O Git Bash é um terminal estendido para otimizar o uso do Git;
+
+O que é Git e sua importância:
+- Conttrole de versão;
+- Armazenamento em nuvem;
+- Trabalho em equipe;
+- Melhorar seus códigos;
+- Reconhecimento.
+
+Comandos básicos para um bom desempenho no terminal (Windows):
+- cd (change/mudar diretório);
+- dir;
+- mkdir (make/criar diretório);
+- del/rmdir (remove/deletar diretório).
