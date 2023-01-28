@@ -1,14 +1,58 @@
-*O Git Bash é um terminal estendido para otimizar o uso do Git;
+Introdução ao Git e ao GitHub
 
-O que é Git e sua importância:
-- Conttrole de versão;
-- Armazenamento em nuvem;
-- Trabalho em equipe;
-- Melhorar seus códigos;
-- Reconhecimento.
+Entendendo o que é Git e sua importância:
 
-Comandos básicos para um bom desempenho no terminal (Windows):
-- cd (change/mudar diretório);
-- dir;
-- mkdir (make/criar diretório);
-- del/rmdir (remove/deletar diretório).
+- Controle de Versão
+- Armazenamento em Nuvem
+- Trabalho em Equipe
+- Melhorar seu Codigo
+- Reconhecimento
+
+Navegação via command line interface e instalação:
+Comandos básicos para um bom desempenho no terminal
+
+GUIxCLI / Windows
+
+- Mudar de Pastas / cd
+- Listar as pastas / dir
+- Criar pastas/arquivos / mkdir
+- Deletar pastas/arquivos del/rmdir
+
+Entendendo como o git funciona embaixo dos panos:
+Tópicos fundamentais:
+SHA1
+Objetos Fundamentais
+Sist. Distribuidos
+Segurança
+
+SHA1:
+encriptação
+identificador com 40 dígitos, único
+
+Objetos internos do git:
+
+Blobs, tree, commit
+
+Chaves SSH e Token
+
+Maquina local <- chave -> Github
+
+Token de acesso pessoal
+
+Iniciando o Git e criando um commit
+git init, git add, git commit
+
+Passo a passo no ciclo de vida
+Git init
+git add nome Arquivo
+git add *
+git add .
+git commit -m "msg"
+
+Trabalhando com Github
+
+Como os conflitos acontecem no github e como resolvê-los
+
+Criando o seu primeiro repositório no github para compartilhar seu progresso
+
+Desafio de projeto -> compartilhar suas anotações/exercícios em seu repositório
